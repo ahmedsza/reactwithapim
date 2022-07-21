@@ -74,7 +74,7 @@
                     "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET"
                   },
                   "openIdConnectConfiguration": {
-                    "wellKnownOpenIdConfiguration": "https://Awesomeahms.b2clogin.com/Awesomeahms.onmicrosoft.com/B2C_1_susi/v2.0/.well-known/openid-configuration"
+                    "wellKnownOpenIdConfiguration": "https://awesomeahms.b2clogin.com/awesomeahms.onmicrosoft.com/B2C_1_susi/v2.0/.well-known/openid-configuration"
                   }
                 },
                 "login": {
