@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <button onClick={sendVote}>Vote</button>
-      <button onClick={sendVote}>VotePOST</button>
+      <button onClick={sendVotePOST}>VotePOST</button>
     </div>
     
   );
