@@ -9,7 +9,7 @@ function sendVote() {
 function App() {
   return (
     <div className="App">
-      <button onClick={sendRequest}>Vote</button>
+      <button onClick={sendVote}>Vote</button>
     </div>
   );
 }
